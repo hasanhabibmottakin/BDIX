@@ -105,7 +105,7 @@
         },
 		        {
             "id": "ed1ad924-f9f2-4302-97df-987bffb2b32e",
-            "title": "Aakaash Bangla TV",
+            "title": "Aakaash Aath",
             "logo": "https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645",
             "url": "https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1761760360&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=baa289e68ecb4cf1bcb1776fcdc060cf",
             "category": "Indian Bangla"
@@ -133,6 +133,13 @@
             "url": "https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1761760507&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c8c298f8495d5401a8e95204ba9763e0",
             "category": "Sports"
         },
+		{
+            "id": "f064e069-8861-43d5-ac79-828b029a50a1",
+            "title": "STAR SPORTS 1 HD",
+            "logo": "https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7",
+            "url": "https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1761760592&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c519b9bd36d3ffcdc6df5135b07f66dd",
+            "category": "Sports"
+        },
 		 {
             "id": "3ac46078-2bf0-4998-a021-37b459e09fba",
             "title": "STAR SPORTS 2 HD",
@@ -156,15 +163,29 @@
         },
 		{
             "id": "a57241fe-02b1-4a39-a602-84a57622be6c",
-            "title": "BT Sport 1",
+            "title": "TNT Sport 1",
             "logo": "https://s3.aynaott.com/storage/9f913955280f14fc557d0c34df8bbd34",
             "url": "https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1761760518&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=06b1e96527831418bb799c9f370fe743",
             "category": "Sports"
         },
+		{
+            "id": "10bb1341-2aa8-4be2-8a25-76a75f5a3ee7",
+            "title": "TNT Sport 2",
+            "logo": "https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a",
+            "url": "https://tvsen6.aynascope.net/supercricket1hd/index.m3u8?e=1761760530&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=ae545c420fa97fe6f3b17299a9da6d40",
+            "category": "Sports"
+           },
 	    {
             "id": "058490dc-acc7-4c54-9ca6-66f1f89cd556",
             "title": "Super Cricket HD 1",
             "logo": "https://s3.aynaott.com/storage/f77f9a29280dfa47c8295ebe759445f6",
+            "url": "https://tvsen6.aynascope.net/supercricket1hd/index.m3u8?e=1761760530&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=ae545c420fa97fe6f3b17299a9da6d40",
+            "category": "Sports"
+           },
+		   {
+            "id": "490e6a84-17e2-42bb-8725-66af0c067239",
+            "title": "Bein Sports",
+            "logo": "https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73",
             "url": "https://tvsen6.aynascope.net/supercricket1hd/index.m3u8?e=1761760530&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=ae545c420fa97fe6f3b17299a9da6d40",
             "category": "Sports"
            }
