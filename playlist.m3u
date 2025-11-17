@@ -1,53 +1,53 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-logo="https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b" group-title="Live Channels",BTV NATIONAL HD
-https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1763423679&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=fc2fd9971c8279cd806485a05d682333
+https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1763424924&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=b06a67d5711b5641527f33af8583a8f4
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Live Channels",BTV CTG
-https://tvsen6.aynascope.net/btvctg/index.m3u8?e=1763423681&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=153a7ff3b1df73988fc6a2162104a67d
+https://tvsen6.aynascope.net/btvctg/index.m3u8?e=1763424927&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=0d931c7d248eeaf424bf2f30451adc37
 #EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Live Channels",RTV
-https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1763423683&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=a04bf18214ad34b395454b820a8d8f6b
+https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1763424929&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=7b74552e68c1087eba1c96b95cdbb6e1
 #EXTINF:-1 tvg-id="b1808fb2-8892-49dc-965e-d038e5334995" tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c" group-title="Live Channels",Gazi TV
-https://tvsen5.aynascope.net/Ravc7gPCZpxk/index.m3u8?e=1763423685&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=6c3d028fc344ef377d0083987f766ff5
+https://tvsen5.aynascope.net/Ravc7gPCZpxk/index.m3u8?e=1763424931&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=97216aefbdc6a7c72a7372ed51b5474d
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="Live Channels",Asian TV
-https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1763423688&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=5f6ae1acdaf57cda9dd709928c40617d
+https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1763424933&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=0581f37576dc6adecfb7595ab46fbcae
 #EXTINF:-1 tvg-id="a108c4e9-ccfa-42f2-8f8f-169ded28cca2" tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f" group-title="Live Channels",Ananda TV
-https://tvsen6.aynascope.net/anandatv/index.m3u8?e=1763423691&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=ae1b4d29a8d3752ec53a6c1017c3eaed
+https://tvsen6.aynascope.net/anandatv/index.m3u8?e=1763424935&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=86b71111465061a6c40d94a485128874
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="Live Channels",Mohona TV
-https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1763423693&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=87e843dc45a42aee26ae588e747d089b
+https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1763424937&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=9f7e16e59d2473d19a5f3a823072a9b7
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Live Channels",NEXUS TV
-https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1763423696&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=ff426a5443d812ad22ec086cbdf8f164
+https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1763424939&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=8edd02e1162c4da89892e12468c5d70d
 #EXTINF:-1 tvg-id="f7c89459-37bf-4129-904d-33b0a4c0d590" tvg-logo="https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c" group-title="Live Channels",Bijoy TV
-https://tvsen6.aynascope.net/bijoytv/index.m3u8?e=1763423698&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=fe8e770e6940f0bcd330bd43bdb6171b
+https://tvsen6.aynascope.net/bijoytv/index.m3u8?e=1763424941&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=a19dc2714073ca0a35c2f9f852978535
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" group-title="Live Channels",Channel 9
-https://tvsen6.aynascope.net/channel9/index.m3u8?e=1763423700&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=341be1cc652532e29eb0fec9e1410792
+https://tvsen6.aynascope.net/channel9/index.m3u8?e=1763424943&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=46e463d14980ada86800d2867e3c1bca
 #EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Live Channels",Bangla TV
-https://tvsen6.aynascope.net/banglatv/index.m3u8?e=1763423702&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=8e7796394ec03ca316fbaffded1b5806
+https://tvsen6.aynascope.net/banglatv/index.m3u8?e=1763424945&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=671985add333986c98f5227b79f502b7
 #EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-logo="https://s3.aynaott.com/storage/851b499c55145dd2e6f1272339f668f5" group-title="Live Channels",Star Jalsha HD
-https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1763423705&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=db271ce3f1a2f84652adc32f9fd8be61
+https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1763424947&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=159932e36e2a0d0f6f713506210578ef
 #EXTINF:-1 tvg-id="890a1a92-0602-4c2d-93ca-a2c43e7aec54" tvg-logo="https://s3.aynaott.com/storage/104a86bd3ae874796e873dae9ebe1b40" group-title="Live Channels",Zee Bangla International
-https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1763423708&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=5077f096fd72835c83697b12b26f666c
+https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1763424949&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=16900f2f340062da691ff4339a3cc500
 #EXTINF:-1 tvg-id="dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1" tvg-logo="https://s3.aynaott.com/storage/f52f1e1bf297eb0b755629d1009c50b5" group-title="Live Channels",Khushboo
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="Live Channels",Aakaash Aath
-https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1761760360&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=baa289e68ecb4cf1bcb1776fcdc060cf
+https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1763424954&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=98168ba7fa518abe07f2d4b4f5882e8e
 #EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Live Channels",T Sports HD
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1761760260&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=1610bae92f3b71a5c07aac013a10b86e
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1763424956&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=24c65fb94c42a63c64cdfc4348736557
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Live Channels",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1763423737&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=74137b9e6edf97fdb3f5f889f489f695
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1763424958&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=6777336649ffe9c00039dedd106c5da8
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-logo="https://s3.aynaott.com/storage/ec104f6c336daca0e318a729f181e5b2" group-title="Live Channels",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1763423739&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=e09bfbbb9a8aecb1e0690bda64d6c48a
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1763424960&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=a59b9b51b32555cddbb41a4ebbe45437
 #EXTINF:-1 tvg-id="f064e069-8861-43d5-ac79-828b029a50a1" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Live Channels",STAR SPORTS 1 HD
 https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1761760592&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=c519b9bd36d3ffcdc6df5135b07f66dd
 #EXTINF:-1 tvg-id="3ac46078-2bf0-4998-a021-37b459e09fba" tvg-logo="https://s3.aynaott.com/storage/183b8360c1da698e8c87bc60708e252b" group-title="Live Channels",STAR SPORTS 2 HD
-https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1763423744&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=05222738dc8aed3a71fc75ad7505f670
+https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1763424964&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=273b6bc4172f662fea3de840a887a59d
 #EXTINF:-1 tvg-id="594809c8-574e-46cf-a3e5-26e0bec1fe33" tvg-logo="https://s3.aynaott.com/storage/c63d1f7c9c6d3c0d0fa552bb141a7f57" group-title="Live Channels",Star Sport Select 1
-https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1763423746&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=621d2c429b516b7a6b57e4a72d4a45b2
+https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1763424967&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=ca33c4719acad34857c4e7be51724ee1
 #EXTINF:-1 tvg-id="b04b3742-e2a1-4d56-8b3e-2b2154766ada" tvg-logo="https://s3.aynaott.com/storage/c78a484e73baa9f5f0a919a447d0c867" group-title="Live Channels",Sony TEN 1 HD
-https://tvsen5.aynascope.net/snTn1HD/index.m3u8?e=1763423748&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=adfd0b166266738e611ca8782c00b3d3
+https://tvsen5.aynascope.net/snTn1HD/index.m3u8?e=1763424968&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=a35f4965b1e05d51ea6e2b0a70610ba7
 #EXTINF:-1 tvg-id="a57241fe-02b1-4a39-a602-84a57622be6c" tvg-logo="https://s3.aynaott.com/storage/9f913955280f14fc557d0c34df8bbd34" group-title="Live Channels",TNT Sport 1
-https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1763423751&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=40ba81edc251e45a677dabe47a6c9628
+https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1763424970&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=72c0f91bbad3ce6d96ceb72d2aeae5cc
 #EXTINF:-1 tvg-id="10bb1341-2aa8-4be2-8a25-76a75f5a3ee7" tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a" group-title="Live Channels",TNT Sport 2
-https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1763423754&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=7103ae27a45e4c6c5ff0730e97d00ab2
+https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1763424972&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=fd316fc0da346d9fab4be8369383c956
 #EXTINF:-1 tvg-id="058490dc-acc7-4c54-9ca6-66f1f89cd556" tvg-logo="https://s3.aynaott.com/storage/f77f9a29280dfa47c8295ebe759445f6" group-title="Live Channels",Super Cricket HD 1
 https://tvsen6.aynascope.net/supercricket1hd/index.m3u8?e=1761760530&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=ae545c420fa97fe6f3b17299a9da6d40
 #EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" group-title="Live Channels",Bein Sports
-https://tvsen6.aynascope.net/beinsports/index.m3u8?e=1763423759&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=0e0164502bc9ff3e5a981eab46084786
+https://tvsen6.aynascope.net/beinsports/index.m3u8?e=1763424976&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=5ec4ecc5b7c39882e18a1afc32db80a7
